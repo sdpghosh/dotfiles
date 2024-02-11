@@ -1,0 +1,48 @@
+! ---- Color theme Rose pine ----
+
+! URxvt*background: #191724
+URxvt*background: #000000 
+URxvt*foreground: #e0def4
+
+! overlay + muted
+URxvt*color0: #26233a
+URxvt*color8: #6e6a86
+
+! love
+URxvt*color1: #eb6f92
+URxvt*color9: #eb6f92
+
+! foam
+URxvt*color2: #9ccfd8
+URxvt*color10: #9ccfd8
+
+! gold
+URxvt*color3: #f6c177
+URxvt*color11: #f6c177
+
+! pine
+URxvt*color4: #31748f
+URxvt*color12: #31748f
+
+! iris
+URxvt*color5: #c4a7e7
+URxvt*color13: #c4a7e7
+
+! rose
+URxvt*color6: #ebbcba
+URxvt*color14: #ebbcba
+
+! text
+URxvt*color7: #e0def4
+URxvt*color15: #e0def4
+
+
+! ---- Settings ----
+URxvt.font: xft:CascadiaCode:size=12
+URxvt.scrollBar: flase
+URxvt.internalBorder: 4
+URxvt.externalBorder: 4
+
+URxvt.depth: 32
+
+URxvt.iso14755: False
