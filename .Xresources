@@ -38,7 +38,7 @@ URxvt*color15: #e0def4
 
 
 ! ---- Settings ----
-URxvt.font: xft:CascadiaCode:size=12
+URxvt.font: xft:CascadiaCode:size=14
 URxvt.scrollBar: flase
 URxvt.internalBorder: 4
 URxvt.externalBorder: 4
